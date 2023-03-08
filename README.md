@@ -1,5 +1,4 @@
-#### Hey there! I'm a passionate neuroscientist studying ML.
-#### Currently working on DL applications to inverse problem of EEG
+### Hey there! I'm a passionate neuroscientist studying ML. Currently working on DL applications to inverse problem of EEG
 
 
 ### 💻 Tech Stack:
